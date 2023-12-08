@@ -1,16 +1,16 @@
  .u-section-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/6m3instore.png");
-  background-position: 50% 50%;
+  background-position: 53.16% 58.97%;
   background-size: 135%;
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 906px;
+  min-height: 957px;
 }
 
 .u-section-1 .u-text-1 {
   width: 658px;
-  margin: 52px auto 0;
+  margin: 50px auto 0;
 }
 
 .u-section-1 .u-text-2 {
@@ -54,13 +54,13 @@
   font-size: 0.875rem;
   font-weight: 700;
   background-image: none;
-  margin: 33px auto -252px;
+  margin: 33px auto -199px;
   padding: 8px 27px 8px 26px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 747px;
+    min-height: 789px;
   }
 
   .u-section-1 .u-image-2 {
@@ -70,13 +70,13 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 572px;
+    min-height: 604px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 429px;
+    min-height: 453px;
   }
 
   .u-section-1 .u-text-1 {
