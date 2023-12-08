@@ -64,11 +64,18 @@
   }
 
   .u-section-1 .u-sheet-1 {
-    min-height: 793px;
+    min-height: 815px;
   }
 
   .u-section-1 .u-text-1 {
-    width: 340px;
+    width: auto;
+    margin-top: 58px;
+    margin-right: -2px;
+    margin-left: 3px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 43px;
   }
 
   .u-section-1 .u-btn-2 {
