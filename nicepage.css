@@ -42650,7 +42650,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 .u-footer .u-sheet-1 {
-  min-height: 309px;
+  min-height: 368px;
 }
 
 .u-footer .u-image-1 {
@@ -42664,9 +42664,22 @@ a.u-link.u-text-hover-grey-90:hover {
   height: 100%;
 }
 
+.u-footer .u-social-icons-1 {
+  height: 23px;
+  min-height: 16px;
+  width: 23px;
+  min-width: 16px;
+  white-space: nowrap;
+  margin: -31px 3px 0 auto;
+}
+
+.u-footer .u-icon-1 {
+  color: rgb(0, 122, 185) !important;
+}
+
 .u-footer .u-text-1 {
   width: 631px;
-  margin: -37px auto 0;
+  margin: -23px auto 24px;
 }
 
 .u-footer .u-btn-1 {
@@ -42674,25 +42687,19 @@ a.u-link.u-text-hover-grey-90:hover {
   padding: 0;
 }
 
-.u-footer .u-social-icons-1 {
-  height: 23px;
-  min-height: 16px;
-  width: 23px;
-  min-width: 16px;
-  white-space: nowrap;
-  margin: -224px 0 230px auto;
-}
-
-.u-footer .u-icon-1 {
-  color: rgb(0, 122, 185) !important;
+.u-footer .u-btn-2 {
+  background-image: none;
+  padding: 0;
 }
 @media (max-width: 1199px) {
-  .u-footer .u-text-1 {
+  .u-footer .u-social-icons-1 {
     margin-top: -38px;
+    margin-right: 3px;
   }
 
-  .u-footer .u-social-icons-1 {
-    margin-top: -224px;
+  .u-footer .u-text-1 {
+    margin-top: -22px;
+    margin-bottom: 30px;
   }
 }
 @media (max-width: 991px) {
@@ -42706,12 +42713,13 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-left: -26px;
   }
 
-  .u-footer .u-text-1 {
+  .u-footer .u-social-icons-1 {
     margin-top: -34px;
   }
 
-  .u-footer .u-social-icons-1 {
-    margin-bottom: 240px;
+  .u-footer .u-text-1 {
+    margin-top: -22px;
+    margin-bottom: 39px;
   }
 }
 @media (max-width: 767px) {
@@ -42725,15 +42733,15 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-left: auto;
   }
 
-  .u-footer .u-text-1 {
-    width: auto;
-    margin-top: 63px;
+  .u-footer .u-social-icons-1 {
+    margin-top: 14px;
+    margin-right: auto;
   }
 
-  .u-footer .u-social-icons-1 {
-    margin-top: -254px;
-    margin-right: auto;
-    margin-bottom: 60px;
+  .u-footer .u-text-1 {
+    width: auto;
+    margin-top: 26px;
+    margin-bottom: 55px;
   }
 }
 @media (max-width: 575px) {
@@ -42745,13 +42753,13 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-top: 14px;
   }
 
-  .u-footer .u-text-1 {
-    margin-top: 53px;
+  .u-footer .u-social-icons-1 {
+    margin-top: 14px;
   }
 
-  .u-footer .u-social-icons-1 {
-    margin-top: -269px;
-    margin-bottom: 273px;
+  .u-footer .u-text-1 {
+    margin-top: 16px;
+    margin-bottom: 57px;
   }
 }
 
