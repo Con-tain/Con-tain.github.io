@@ -1,20 +1,20 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/6m3instore.png");
+  background-image: linear-gradient(0deg, rgba(26,26,26,0.65), rgba(26,26,26,0.65)), url('images/Bay310.jpg');
   background-position: 50% 50%;
   background-size: 135%;
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 660px;
+  min-height: 739px;
 }
 
 .u-section-1 .u-text-1 {
-  width: 666px;
-  margin: 50px auto 0;
+  width: 746px;
+  margin: 40px auto 0;
 }
 
 .u-section-1 .u-text-2 {
-  margin: 57px 0 0;
+  margin: 63px 0 0;
 }
 
 .u-section-1 .u-btn-1 {
@@ -22,7 +22,7 @@
   text-transform: uppercase;
   font-size: 0.875rem;
   font-weight: 700;
-  margin: 22px auto 0;
+  margin: 27px 496px 0;
   padding: 8px 27px 8px 26px;
 }
 
@@ -38,23 +38,42 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 544px;
+    min-height: 609px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 396px;
+    margin-right: 396px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 417px;
+    min-height: 466px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 286px;
+    margin-right: 286px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 313px;
+    min-height: 350px;
   }
 
   .u-section-1 .u-text-1 {
     width: 540px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 196px;
+    margin-right: 196px;
   }
 }
 
@@ -77,13 +96,27 @@
   .u-section-1 .u-text-2 {
     margin-top: 43px;
   }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 96px;
+    margin-right: 96px;
+  }
 }.u-section-2 .u-sheet-1 {
-  min-height: 165px;
+  min-height: 285px;
 }
 
 .u-section-2 .u-text-1 {
   font-weight: 700;
-  margin: 30px 74px;
+  margin: 23px 34px 0;
+}
+
+.u-section-2 .u-btn-1 {
+  --radius: 50px;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  font-weight: 700;
+  margin: 23px auto 40px;
+  padding: 9px 27px 10px 26px;
 }
 
 @media (max-width: 1199px) {
@@ -350,8 +383,7 @@
 
 .u-section-4 .u-list-1 {
   grid-template-rows: auto;
-  margin-top: 20px;
-  margin-bottom: 0;
+  margin: 19px 0 0;
 }
 
 .u-section-4 .u-repeater-1 {
@@ -440,7 +472,7 @@
   font-size: 0.875rem;
   letter-spacing: 1px;
   background-image: none;
-  margin: 37px auto 0;
+  margin: 38px 426px 0;
   padding: 8px 30px 8px 29px;
 }
 
@@ -472,6 +504,11 @@
     margin-right: auto;
   }
 
+  .u-section-4 .u-list-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
   .u-section-4 .u-repeater-1 {
     min-height: 286px;
   }
@@ -490,6 +527,11 @@
 
   .u-section-4 .u-image-4 {
     height: 170px;
+  }
+
+  .u-section-4 .u-btn-1 {
+    margin-left: 326px;
+    margin-right: 326px;
   }
 }
 
@@ -521,6 +563,11 @@
 
   .u-section-4 .u-image-4 {
     height: 291px;
+  }
+
+  .u-section-4 .u-btn-1 {
+    margin-left: 216px;
+    margin-right: 216px;
   }
 }
 
@@ -572,6 +619,11 @@
   .u-section-4 .u-image-4 {
     height: 504px;
   }
+
+  .u-section-4 .u-btn-1 {
+    margin-left: 126px;
+    margin-right: 126px;
+  }
 }
 
 @media (max-width: 575px) {
@@ -601,6 +653,8 @@
 
   .u-section-4 .u-btn-1 {
     margin-top: 20px;
+    margin-left: 26px;
+    margin-right: 26px;
   }
 
   .u-section-4 .u-btn-2 {
